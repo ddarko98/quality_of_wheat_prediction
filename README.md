@@ -1,6 +1,6 @@
-Machine Learning for Durum Wheat Quality Prediction
+**Machine Learning for Durum Wheat Quality Prediction
 Overview
-This project focuses on developing a machine learning model to accurately classify the quality of durum wheat grains based on morphological and textural features. The goal is to distinguish between high-quality ('Vitreous'), softer ('Starchy'), and defective or non-durum ('Foreign') grains, automating a crucial step in agricultural quality assessment.
+This project focuses on developing a machine learning model to accurately classify the quality of durum wheat grains based on morphological and textural features. The goal is to distinguish between high-quality ('Vitreous'), softer ('Starchy'), and defective or non-durum ('Foreign') grains, automating a crucial step in agricultural quality assessment.**
 
 The project follows a standard machine learning workflow:
 
